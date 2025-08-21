@@ -34,17 +34,16 @@
 
 ---
 
-
-
+![Snake animation](https://github.com/Twizster/Twizster/blob/output/snake.svg)
 
 ### 🌐 Connect with me  
 [![Instagram](https://img.shields.io/badge/Instagram-%40arravyy.0-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/arravyy.0)
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Laravel Framework
+- 👯 I’m looking to collaborate on open-source projects, web-based applications, or creative content that combines design and technology.
+- 🤔 I’m looking for help with learning Laravel framework and improving my graphic design skills.
+- 💬 Ask me about 
+- 📫 How to reach me: dm my instagram
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I learn faster when listening to music 🎧
 -->
