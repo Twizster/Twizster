@@ -1,23 +1,18 @@
-## Hi there 👋, I'm Twizster  
+# 🚀 Welcome to My Space
 
-💻 Information Systems Student | 🚀 Learning Data, AI & Web Development | 🎨 Design Enthusiast  
+████████╗██╗    ██╗██╗███████╗████████╗███████╗██████╗ ╚══██╔══╝██║    ██║██║██╔════╝╚══██╔══╝██╔════╝██╔══██╗ ██║   ██║ █╗ ██║██║███████╗   ██║   █████╗  ██████╔╝ ██║   ██║███╗██║██║╚════██║   ██║   ██╔══╝  ██╔══██╗ ██║   ╚███╔███╔╝██║███████║   ██║   ███████╗██║  ██║ ╚═╝    ╚══╝╚══╝ ╚═╝╚══════╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
 
----
-
-### 🔧 Tech Stack
-- *Languages*: Python, JavaScript, C++  
-- *Tools*: Git, Figma, Blender  
+✨ Code. Design. Coffee. Repeat.  
 
 ---
 
-### 📊 GitHub Stats
-![Twizster's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twizster&show_icons=true&theme=radical)
+### ⚡ 2. *README dengan Animasi Statistik*
+Gunakan [github-readme-streak-stats](https://github.com/denvercoder1/github-readme-streak-stats) + GitHub Stats:
 
----
-
-### 🌐 Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-%40arravyy.0-orange)](https://www.instagram.com/arravyy.0)
-
+```markdown
+### 📊 My GitHub Stats
+![Twizster's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twizster&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Twizster&theme=tokyonight)
 <!--
 **Twizster/Twizster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
