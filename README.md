@@ -34,9 +34,33 @@
 
 ---
 
-### 🐍 Snake Game Contribution Graph  
-![snake gif](https://github.com/Twizster/Twizster/blob/output/github-contribution-grid-snake.svg)  
+name: Generate Snake
 
+on:
+  schedule: # setiap 12 jam
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Twizster
+          outputs: dist/snake.svg
+
+      - name: Push Snake to GitHub
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ---
 
 ### 🌐 Connect with me  
